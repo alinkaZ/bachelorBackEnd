@@ -1,0 +1,4 @@
+
+.vs/*
+/bachelorBackEnd/obj
+/bachelorBackEnd/bin/Debug/netcoreapp3.1
